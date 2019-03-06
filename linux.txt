@@ -37,3 +37,20 @@ hiri - email client
 libreoffice, openoffice, calligra suite - for office replacement on linux
 
 
+remmina - remote desktop client
+
+nord vpn - vpn
+
+htop - processes manager
+
+spotify - music
+
+albert - the search from everythwere 
+
+screenshot - to make screenshots
+
+image viewer - to open images
+
+intellij - IDE
+
+
