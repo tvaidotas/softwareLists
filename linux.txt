@@ -1,0 +1,39 @@
+gparted - disk partition manager
+
+texmaker - latex text editor
+
+calibre - pdf, mobi and all other formats
+
+kazam - screen recorder
+
+deluge - torrent client
+
+ocular or evince - pdf reader
+
+filezilla - ftp client
+
+timeshift - backup software
+
+teamviewer - for remoting in
+
+simplenote - for quick notes
+
+gnome terminal - terminal 
+
+sublime or notepad++ - editor
+
+avast - antivirus
+
+vlc - video player
+
+google drive client like: insync, overgrive or anything else
+
+chrome - web browser
+
+kodi - video media server
+
+hiri - email client
+
+libreoffice, openoffice, calligra suite - for office replacement on linux
+
+
